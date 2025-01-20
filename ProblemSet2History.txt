@@ -1,0 +1,10 @@
+  372  git remote add origin https://github.com/wcmelby/129L_ProblemSet_2.git
+  373  git branch
+  374  git status
+  375  git branch -M main
+  376  echo "Phys 129L Problem Set 2" > README.md
+  377  git add .
+  378  git commit -m "initial commit"
+  379  git branch -M main
+  380  git push -u origin main
+  381  history | tail -n 10 >> ProblemSet2History.txt
