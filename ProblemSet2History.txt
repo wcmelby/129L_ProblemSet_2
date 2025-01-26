@@ -8,3 +8,11 @@
   379  git branch -M main
   380  git push -u origin main
   381  history | tail -n 10 >> ProblemSet2History.txt
+  384  touch Problem1.ipynb
+  385  code Problem1.ipynb
+  386  git add .
+  387  git commit -m "Worked on Problem 1"
+  388  git push main
+  389  git push -m main
+  390  git push
+  391  history | tail -n 8 >> ProblemSet2History.txt
