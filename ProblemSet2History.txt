@@ -16,3 +16,23 @@
   389  git push -m main
   390  git push
   391  history | tail -n 8 >> ProblemSet2History.txt
+  409  code Problem1.ipynb
+  410  git add .
+  411  git commit -m "Worked on Problem 1"
+  412  git push main
+  413  git push -m main
+  414  git push
+  415  history | tail -n 8 >> ProblemSet2History.txt
+  416  touch Problem2.ipynb
+  417  ls
+  418  code Problem2.ipynb
+  419  git pull
+  420  touch Problem3.ipynb
+  421  code Problem3.ipynb
+  422  wget https://zhwangs.github.io/UCSB-comp-phys/data/sections/mesh.dat
+  423  ls
+  424  git pull
+  425  git add .
+  426  git commit -m "Worked on problems 2 and 3"
+  427  git push
+  428  history | tail -n 20 >> ProblemSet2History.txt
