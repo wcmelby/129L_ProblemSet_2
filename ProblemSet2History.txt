@@ -36,3 +36,13 @@
   426  git commit -m "Worked on problems 2 and 3"
   427  git push
   428  history | tail -n 20 >> ProblemSet2History.txt
+  428  history | tail -n 20 >> ProblemSet2History.txt
+  429  git pull
+  430  git add .
+  431  git commit -m "worked on hw more"
+  432  git push
+  433  git pull
+  434  git add .
+  435  git commit -m "worked on problem 2"
+  436  git push
+  437  history | tail -n 10 >> ProblemSet2History.txt
